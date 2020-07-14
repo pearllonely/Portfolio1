@@ -98,7 +98,7 @@
     height: 100vh;
     max-height: 100vh;
     position: relative;
-    background-image: url('../images/OBWA.jpg');
+    background-image: url('..\images\OBWA.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position-x: right;
