@@ -284,7 +284,8 @@ padding: 40px 100px;
   
     .contscts {
     background-color: #5f6566;
-    font-family: 'Tajawal', sans-serif;
+    src: url('../fonts/aldhabi.ttf');
+    font-family: aldhabi;
     font-size: x-large;
     
   }
