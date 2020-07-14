@@ -171,7 +171,7 @@ h1,h3{
     margin-block-end: 2em;
     margin-inline-start: 2px;
     margin-inline-end: 2px;
-    src: url('Nizar Aldhabi.ttf');
+    src: url('fonts/Nizar Aldhabi.ttf');
     font-family: Nizar Aldhabi;
     font-size:2.5em;
 }
@@ -193,7 +193,7 @@ h1,h3{
     margin-inline-end: 2px;
     text-align: center;
     height: 4px;
-    src: url('Nizar Aldhabi.ttf');
+    src: url('fonts/Nizar Aldhabi.ttf');
     font-family: Nizar Aldhabi;
     font-size:2.2em;
   }
@@ -284,7 +284,7 @@ padding: 40px 100px;
   
     .contscts {
     background-color: #5f6566;
-    src: url('Nizar Aldhabi.ttf');
+    src: url('fonts/Nizar Aldhabi.ttf');
     font-family: Nizar Aldhabi;
     font-size:large;
     
