@@ -171,8 +171,8 @@ h1,h3{
     margin-block-end: 2em;
     margin-inline-start: 2px;
     margin-inline-end: 2px;
-    src: url('../fonts/aldhabi.ttf');
-    font-family: aldhabi;
+    src: url('Nizar Aldhabi.ttf');
+    font-family: Nizar Aldhabi;
     font-size:2.5em;
 }
 
@@ -193,8 +193,8 @@ h1,h3{
     margin-inline-end: 2px;
     text-align: center;
     height: 4px;
-    src: url('../fonts/aldhabi.ttf');
-    font-family: aldhabi;
+    src: url('Nizar Aldhabi.ttf');
+    font-family: Nizar Aldhabi;
     font-size:2.2em;
   }
   .me ~h4
@@ -210,7 +210,7 @@ h1,h3{
 }
 .imagA{
   height: 250px;
-  background-color:rgb(34, 31, 216);
+  background-color:rgb(221, 34, 181);
   opacity: .8;
   float: right;
 padding: 40px 100px;
@@ -218,14 +218,14 @@ padding: 40px 100px;
 }
 .imagB{
   height: 250px;
-  background-color:rgb(39, 204, 226);
+  background-color:rgb(190, 176, 176);
   opacity: .8;
   float: right;
   padding: 40px 100px;
 }
 .imagC{
   height: 250px;
-  background-color:rgb(25, 216, 50);
+  background-color:rgb(221, 34, 181);
   opacity: .8;
   float: right;
   padding: 40px 100px;
@@ -233,7 +233,7 @@ padding: 40px 100px;
 }
 .imagD{
   height: 250px;
-  background-color: rgb(164, 226, 19);
+  background-color: rgb(190, 176, 176);
   opacity: .8;
   float: right;
   padding: 40px 100px;
@@ -242,7 +242,7 @@ padding: 40px 100px;
 }
 .imagE{
   height: 250px;
-  background-color: rgb(72, 230, 24);
+  background-color: rgb(121, 165, 112);
   opacity: .8;
   float: right;
   padding: 40px 100px;
@@ -250,7 +250,7 @@ padding: 40px 100px;
 }
 .imagF{
   height: 250px;
-  background-color: rgb(129, 51, 61);
+  background-color: rgb(221, 163, 177);
   opacity: .8;
   float: right;
   padding: 40px 100px;
@@ -258,14 +258,14 @@ padding: 40px 100px;
 }
 .imagG{
   height: 250px;
-  background-color:rgb(226, 14, 216);
+  background-color:rgb(121, 165, 112);
   opacity: .8;
   float: right;
   padding: 40px 100px;
 }
 .imagH{
   height: 250px;
-  background-color:rgb(102, 11, 34);
+  background-color:rgb(221, 163, 177);
   opacity: .8;
   float: right;
   padding: 40px 100px;
@@ -284,8 +284,9 @@ padding: 40px 100px;
   
     .contscts {
     background-color: #5f6566;
-    font-family: 'Tajawal', sans-serif;
-    font-size: x-large;
+    src: url('Nizar Aldhabi.ttf');
+    font-family: Nizar Aldhabi;
+    font-size:large;
     
   }
   .contscts h1 {
